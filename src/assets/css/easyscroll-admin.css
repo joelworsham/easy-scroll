@@ -1,0 +1,39 @@
+#easy-scroll-meta-value {
+    display: none;
+}
+
+#easy-scroll-meta-value.show {
+    display: table-row;
+}
+
+.easy-scroll-settings h3 {
+    border-bottom: 1px solid #ccc;
+    width: 500px;
+    max-width: 100%;
+    padding-bottom: 5px;
+}
+
+#template-variable-help {
+    float: left;
+    width: 300px;
+    max-width: 100%;
+    white-space: nowrap;
+    margin-left: 10px;
+}
+
+#template-variable-help h3 {
+    margin: 0;
+    border: none;
+}
+
+#template-variable-help table td {
+    padding: 5px;
+}
+
+#template-variable-help table td:first-child {
+    font-weight: bold;
+}
+
+#easy_scroll_template {
+    float: left;
+}

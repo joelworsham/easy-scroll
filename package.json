@@ -1,0 +1,21 @@
+{
+  "name": "EasyScroll",
+  "version": "0.2.0-alpha",
+  "description": "An infinite scroll plugin that allows posts to be output on any page without the need for a page refresh.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelworsham/easy-scroll"
+  },
+  "author": "Joel Worsham",
+  "license": "GPLv2 or later",
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-autoprefixer": "~1.0",
+    "grunt-contrib-uglify": "~0.5",
+    "grunt-contrib-watch": "~0.6",
+    "grunt-contrib-sass": "~0.8",
+    "grunt-contrib-copy": "~0.6",
+    "grunt-notify": "~0.4",
+    "matchdep": "~0.3"
+  }
+}
